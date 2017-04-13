@@ -1,6 +1,7 @@
 # Sample_website_with_yeoman.io
 Sample_website_with_yeoman.io
 
+![website screenshot](https://preview.ibb.co/nKF0bQ/Screen_Shot_2017_04_13_at_1_21_23_PM.png)
 
 ##### 1. Clone
 ##### 2. cd Sample_website_with_yeoman.io
